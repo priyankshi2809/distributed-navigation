@@ -22,7 +22,7 @@ header {
   background-color: #e2e2e2;
   display: flex;
   justify-content: space-between;
-  align-items: centre;
+  align-items: center;
   padding: 1rem;
  }
 
@@ -49,7 +49,7 @@ nav ul {
 }
 
 nav a {
-  color: #007d9;
+  color: #0074d9;
   padding: .75em 1em .6em;
   text-decoration: none;
 }
